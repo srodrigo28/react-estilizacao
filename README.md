@@ -32,6 +32,12 @@
         `;
 
 ## usando bootstrap
+    * formas de instalar o bootstrap
+        * npm install react-bootstrap bootstrap@5.1.3
+        * npm install react-bootstrap
+    * forma de usar
+        * importar no arquivo principal index.js ou index.ts, ou index.tsx
+        * import 'bootstrap/dist/css/bootstrap.min.css';
 
 ## usando Twaind
 
