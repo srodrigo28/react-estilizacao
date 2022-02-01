@@ -59,5 +59,9 @@
         * link: https://tailwindcss.com/docs/guides/create-react-app
         * npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
         * npx tailwindcss init -p
+   * Configurar o index.css
+      @tailwind base;
+      @tailwind components;
+      @tailwind utilities;
 
 ## Material Designer UI
