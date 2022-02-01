@@ -56,6 +56,7 @@
 
 ## Usando Twaind
     * instalação no react-app
+        * https://tailwindcss.com/docs/installation
         * link: https://tailwindcss.com/docs/guides/create-react-app
         * npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
         * npx tailwindcss init -p
